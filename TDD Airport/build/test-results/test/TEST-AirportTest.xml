@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AirportTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2019-09-11T10:25:45" hostname="Makerss-MacBook-Pro.local" time="1278.507">
+  <properties/>
+  <testcase name="cantLandWhenAirportFull" classname="AirportTest" time="1278.507">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
